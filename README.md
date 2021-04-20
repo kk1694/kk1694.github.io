@@ -1,1 +1,1 @@
-Repo for [krisztiankovacs.com](krisztiankovacs.com)
+Repo for [krisztiankovacs.com](https://krisztiankovacs.com/)
