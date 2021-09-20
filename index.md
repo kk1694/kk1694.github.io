@@ -1,17 +1,7 @@
 ## Welcome To Krisztian's Professional Page
 
-I'm a machine learning engineer, focusing especially on deep learning and computer vision.
+I'm Kris, CTO of [noki](https://noki.so). At Noki, we're trying to automate note-taking from video calls & making extracting insights for product teams (user testers, product managers) a lot more efficient. We're early stage, so a lot is happening at a very quick pace! *If you're interested to join a super exciting startup, email me at kris@noki.so*.
 
-Right now, I'm working at [Greyparrot.ai](https://www.greyparrot.ai/), a company focused on monitoring and automating waste recycling. During my time here, I worked on
-- Training and evaluating object detectors, especially single shot Yolo (v3 & v5) type models.
-- Deploying models on Nvidia Jetsons (TX2 and AGX) and writing a fast (C++) inference pipeline.
-- Designing the hardware underlying the computer vision system; in particular selecting the camera, lighting, and the network connection.
-- Integrating an [Automata](https://automata.tech/) robot with our API to pick items from moving conveyor belts.
+Previously, I was working as a deep learning engineer at [greyparrot.ai](https://greyparrot.ai). And before that, I participated in a machine learning fellowship at [fellowship.ai](https://fellowship.ai/). Machine learning was (and still is!) such an exciting field, that I wanted to be a part of this fast-moving field.
 
-I occasionally [blog](blog) about ML-related topics.
-
-Before doing machine learning, I worked in insurance as an actuary. Feeling unchallenged, I decided to take a sabbatical. I travelled to Asia, trained in a kung fu school, meditated in a Thai monastery, and fell in love. When I came back to London, I decided to transition into ML.
-
----
-
-_[Edit on GitHub](https://github.com/kk1694/kk1694.github.io)_
+On the fun side of things, a while back I decide to take a sabbatical. I travelled to a village in China, joined a kung-fu school, and trained for a year there.
